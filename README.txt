@@ -6,5 +6,3 @@ v3 - ported to c++
 
 
 
-possible improvements:
-Djikstra's algorithm should not be part of graph class. Maybe use strategy design pattern.
